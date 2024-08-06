@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/Maker-Management-Platform/fauxgl"
 	"github.com/nfnt/resize"
 )
 

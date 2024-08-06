@@ -5,7 +5,7 @@ import (
 	"log"
 	"math"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/Maker-Management-Platform/fauxgl"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 

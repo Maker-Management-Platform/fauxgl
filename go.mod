@@ -1,4 +1,4 @@
-module github.com/fogleman/fauxgl
+module github.com/Maker-Management-Platform/fauxgl
 
 go 1.16
 

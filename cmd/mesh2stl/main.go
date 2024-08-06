@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/Maker-Management-Platform/fauxgl"
 )
 
 func timed(name string) func() {

@@ -5,7 +5,7 @@ import (
 	"math"
 	"os"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/Maker-Management-Platform/fauxgl"
 	"github.com/nfnt/resize"
 )
 

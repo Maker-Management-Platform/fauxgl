@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/Maker-Management-Platform/fauxgl"
 	"github.com/nfnt/resize"
 )
 
